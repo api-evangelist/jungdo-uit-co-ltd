@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JUNGDO UIT CO., LTD. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://uitgis.com/eng/
+JUNGDO UIT CO., LTD. provides geographic information system (GIS) solutions in South Korea, offering land information systems, smart green city planning, land suitability assessment, and urban planning information systems. The company’s website showcases multiple solutions for land data management and urban development, targeting government and enterprise clients with integrated mapping and analysis tools.
+
+**Areas:** Company · GIS · Mapping · Urban Planning · Government Solutions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://uitgis.com/eng/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jungdo-uit-co-ltd/](https://apis.io/providers/jungdo-uit-co-ltd/).
